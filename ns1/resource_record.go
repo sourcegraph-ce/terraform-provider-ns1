@@ -3,7 +3,7 @@ package ns1
 import (
 	"errors"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"sort"
 	"strconv"
 	"strings"
